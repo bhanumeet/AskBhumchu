@@ -25,19 +25,15 @@ Apps like Talking Tom made virtual pets fun, but they never really *talked back*
 
 ## Screenshots
 
-Add your screenshot images to a `screenshots/` folder in the repo, then reference them below. Images will appear **side by side** with a fixed width so they don’t stack vertically and take too much space.
-
 <p align="center">
-  <img src="screenshots/screenshot1.png" width="280" alt="Main screen"/>
-  <img src="screenshots/screenshot2.png" width="280" alt="Question and answer"/>
+  <img src="https://github.com/user-attachments/assets/da7009b6-d551-4092-b589-86388b3019d3" width="280" alt="Simulator Screenshot - iPhone 17 Pro Max - 23 08 40" />
+  <img src="https://github.com/user-attachments/assets/58456e8e-2e97-4e63-a4ac-dc1a8017fbab" width="280" alt="Simulator Screenshot - iPhone 17 Pro Max - 23 15 37" />
 </p>
 
 <p align="center">
-  <img src="screenshots/screenshot3.png" width="280" alt="Care buttons"/>
-  <img src="screenshots/screenshot4.png" width="280" alt="Story or action"/>
+  <img src="https://github.com/user-attachments/assets/a12ecdd3-a299-49f8-9318-265afea89e9c" width="280" alt="Simulator Screenshot - iPhone 17 Pro Max - 23 08 11" />
+  <img src="https://github.com/user-attachments/assets/f410e247-4791-4d8f-b1be-ab7747b837de" width="280" alt="Simulator Screenshot - iPhone 17 Pro Max - 15 58 23" />
 </p>
-
-*Replace `screenshot1.png`, `screenshot2.png`, etc. with your actual file names. Use the same `width="280"` (or smaller, e.g. `240`) so they stay side by side on GitHub.*
 
 ---
 
